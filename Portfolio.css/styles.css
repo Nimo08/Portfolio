@@ -1,27 +1,3 @@
 .body {
   background-color: green;
 }
-
-.section {
-  display: grid;
-  min-width: 200px;
-}
-
-.container {
-  padding: 20px;
-  margin: 0;
-  max-width: 900px;
-}
-
-.header {
-  color: black;
-}
-
-.nav {
-  color:blue;
-}
-
-.section {
-  display: grid;
-  min-width: 200px;
-}
